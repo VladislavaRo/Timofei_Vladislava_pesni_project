@@ -1,7 +1,7 @@
 # Использование библиотеки ___pandas___ для работы с государственными каталогами из портала открытых данных Министерства культуры Российской Федерации  
 ## в рамках проекта "Использование библиотек Python для задач в области культурологии"  
 
-![](https://github.com/VladislavaRo/pesni_project/blob/4e1869a975302cb0cd0c0aa825040c5952c939d8/csvplot2.png)  
+![](https://github.com/VladislavaRo/pesni_project/blob/149d93eb5717cce9e1e8b0908078b4e17ab2095c/mem.jpg)  
 
 #### Выполнили:  
 #### **Владислава Родионова**  
@@ -499,3 +499,4 @@ df.plot(y='Количество музыкальных произведений'
 ![](https://github.com/VladislavaRo/pesni_project/blob/51f17e2c79d9ede81593603cffed340ad8697c2d/matplotlib2.png)  
 ![](https://github.com/VladislavaRo/pesni_project/blob/51f17e2c79d9ede81593603cffed340ad8697c2d/matplotlib1.png)  
 Наконец, визуализацию полученных данных можно реализовать при помощи онлайн сервисов, таких как: [Datawrapper](https://www.datawrapper.de/), [Infogram](https://infogram.com/), [RAWGraphs](https://rawgraphs.io/), [TableauPublic](https://public.tableau.com/en-us/s/), [csvplot](https://csvplot.com/)  
+![](https://github.com/VladislavaRo/pesni_project/blob/4e1869a975302cb0cd0c0aa825040c5952c939d8/csvplot2.png)  

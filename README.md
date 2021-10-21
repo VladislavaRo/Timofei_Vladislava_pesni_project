@@ -129,7 +129,7 @@ Index(['A', 'B', 'C', 'D'], dtype='object')
 ```
 с помощью *describe* можно узнать краткую статистическую сводку используемых данных:
 ```
-df.describe(include='all')
+df.describe()
 ```
 ```
               A         B         C         D

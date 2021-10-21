@@ -1,7 +1,7 @@
 # Использование библиотеки ___pandas___ для работы с государственными каталогами из портала открытых данных Министерства культуры Российской Федерации  
 ## в рамках проекта "Использование библиотек Python для задач в области культурологии"  
 
-![](https://github.com/VladislavaRo/pesni_project/blob/3ef0d1eabade8d1c221f4e8ac3ed1629d7181fc5/cvsplot.jpg)
+![](https://github.com/VladislavaRo/pesni_project/blob/581d1efe1d5ddfb85080fbb2a9dbee348d833608/cvsplot.jpg)
 
 #### Выполнили:  
 #### **Владислава Родионова**  

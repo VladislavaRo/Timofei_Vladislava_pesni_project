@@ -69,6 +69,7 @@ dtype: float64
 ```
 Далее создается DataFrame, с индексом даты и времени и озаглавленными столбцами, путем передачи массива NumPy:  
 ```
+import numpy as np
 dates = pd.date_range("20130101", periods=6)
 dates
 ```
@@ -128,7 +129,7 @@ Index(['A', 'B', 'C', 'D'], dtype='object')
 ```
 с помощью *describe* можно узнать краткую статистическую сводку используемых данных:
 ```
-df.describe()
+df.describe(include='all')
 ```
 ```
               A         B         C         D
